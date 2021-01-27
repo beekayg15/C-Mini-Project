@@ -4,7 +4,7 @@ A **project** bringing to life, the digital version of the primitive **Bulls and
 
 ## Tools and Languages Used :
 <p>
-<img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/c.svg"/>
+<img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/c-2975.svg"/>
 </p>
 
 ## Download and Usage :
