@@ -57,5 +57,5 @@ The game contains multiple pages namely, _Home_, _Instruction_, _GamePlay_, _Pre
 
 
 **Note** : 
-The game has been further developed using `HTML5`, `CSS3` and `JavaScript`. Click on the link below for more details.<br>
+The game has been further developed using `HTML5`, `CSS3` and `JavaScript` with a better graphical model and an interactive user-friendly layout. Click on the link below for more details.<br>
 https://github.com/BarathKumarBK-15/BullsandCowsWebPage
