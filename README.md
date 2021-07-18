@@ -63,3 +63,7 @@ The game has been further developed using `HTML5`, `CSS3` and `JavaScript` with 
 Project Link: https://github.com/BarathKumarBK-15/BullsandCowsWebPage
 
 Game Link: https://barathkumarbk-15.github.io/BullsandCowsWebPage
+
+## Contributors
+- <a href="https://github.com/Aravindkrish25"> Aravind M </a>
+- <a href="https://github.com/BarathKumarBK-15"> Barath Kumar G </a> 
