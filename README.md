@@ -66,4 +66,5 @@ Game Link: https://barathkumarbk-15.github.io/BullsandCowsWebPage
 
 ## Contributors
 - <a href="https://github.com/Aravindkrish25"> Aravind M </a>
-- <a href="https://github.com/BarathKumarBK-15"> Barath Kumar G </a> 
+- <a href="https://github.com/BarathKumarBK-15"> Barath Kumar G </a>
+- <a href="https://github.com/BarathKumarBK-15"> Hrithik B </a>  
